@@ -4,7 +4,7 @@
         <description><![CDATA[Juegos para momentos serios]]></description>
         <link>https://thegrid.ai/gamebag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 06:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 06:35:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gamebag/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ho ho ho!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gamebag/ho-ho-ho/index.html</link>
             <guid isPermaLink="false">96984aa4-f37e-4c45-b61e-e5890ec61cee</guid>
             <pubDate>Fri, 12 Aug 2016 06:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manual del mal turista]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/280abf97-fcb4-4a52-8273-357f3f9a4d04.jpg">]]></description>
+            <link>https://thegrid.ai/gamebag/manual-del-mal-turista/index.html</link>
+            <guid isPermaLink="false">ce80d724-1729-476e-9dac-37c620a2da91</guid>
+            <pubDate>Fri, 12 Aug 2016 06:35:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¡Tiburón!]]></title>
