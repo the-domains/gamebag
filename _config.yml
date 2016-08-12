@@ -1,0 +1,28 @@
+name: Gamebag
+favicon: null
+layout_spectrum: 0.44127745972946286
+typography_spectrum: 0.2770273059140891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8517831850331277
+  lightness: 0.5997151264455169
+  saturation: 0.84207006637007
+  rhythmicContrast: 0.4396161073818803
+purpose: []
